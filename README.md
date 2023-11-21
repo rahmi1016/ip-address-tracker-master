@@ -66,7 +66,7 @@ For future endevour, will revisit this project with REACT and Tailwinds.
 
 - [Accesing object](https://frontend.turing.edu/lessons/module-1/js-dot-bracket-notation.html#:~:text=We%20must%20use%20bracket%20notation,two%20words%20with%20a%20space.)
 
--[Error: "Map container is already initialized."](https://help.openstreetmap.org/questions/12935/error-map-container-is-already-initialized)
+- [Error: "Map container is already initialized."](https://help.openstreetmap.org/questions/12935/error-map-container-is-already-initialized)
 
 ## Author
 
