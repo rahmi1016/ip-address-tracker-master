@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/rahmi1016/ip-address-tracker-master)
+- Live Site URL: [Live site URL](https://rahmi1016.github.io/ip-address-tracker-master/)
 
 ## My process
 
