@@ -27,7 +27,7 @@ $.getJSON("https://api.ipify.org?format=jsonp&callback=?", function (getip) {
           zoom: 19,
           zoomControl: false,
         });
-        var selfIcon = L.icon({ iconUrl: `/images/icon-location.svg` });
+        var selfIcon = L.icon({ iconUrl: `./images/icon-location.svg` });
         var marker = L.marker([lati, lang], { icon: selfIcon }).addTo(map);
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
           maxZoom: 22,
@@ -76,7 +76,7 @@ function ipinput() {
           zoomControl: false,
         });
 
-        var selfIcon = L.icon({ iconUrl: `/images/icon-location.svg` });
+        var selfIcon = L.icon({ iconUrl: `./images/icon-location.svg` });
         var marker = new L.marker([latitude, langitude], {
           icon: selfIcon,
         }).addTo(map);
